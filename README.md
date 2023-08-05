@@ -1,3 +1,2 @@
-# weather-app
-a weather app created by javascript.
-form weather api :)
+# Weather Application
+a weather application created in javascript language and work with api.
